@@ -1,0 +1,10 @@
+{
+  "name": "mdb",
+  "description": "markdown to books",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT"
+}
